@@ -1,0 +1,15 @@
+div {
+  background-color: rgb(117,32,63);
+  width: 80%; 
+  margin: 0 auto;
+
+}
+button {
+  width: 200px;
+  padding: 10px;
+  text-align: center;;
+}
+td {
+  text-align: left;
+  padding: 5px;
+}

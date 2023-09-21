@@ -1,0 +1,29 @@
+.sidebar {
+height: 100%;
+width: 150px;
+position: absolute;
+left: 0;
+top: 0;
+padding-top: 40px;
+background-color:rgb(217,218,62) ;
+}
+
+.main-text {
+margin-left: 200px;
+font-size: 18px;
+}
+
+li {
+  background-color: white;
+  margin: 5px;
+  padding: 5px;
+  width: 115px;
+list-style-type: none;
+border-right: 15px solid black; 
+}
+
+a {
+text-decoration: none; 
+}
+
+

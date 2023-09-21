@@ -1,0 +1,17 @@
+.greenrow {
+  background-color: rgb(4,169,109);
+  color: white;
+  height: 35px;
+  text-align: left;
+}
+
+.grayrow {
+  background-color: rgb(232,233,235);
+}
+table {
+    border-collapse:collapse;
+}
+td {
+    padding: 8px;
+    width: 200px;
+}

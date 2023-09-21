@@ -1,0 +1,33 @@
+    .profile {
+width: 320px;
+border-radius: 100px;
+vertical-align: middle;
+    }
+
+.enter{
+  width: 300px;
+  padding: 5px;
+}
+
+    .login {
+      background-color: rgb(76,176,80);
+      color: white;
+      width: 314px;
+      padding: 7px;
+      border: none;
+    }
+.cancel{
+  background-color: rgb(244,66,52);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 110px;
+
+}
+.gray{
+  background-color: rgb(241,241,241);
+  border-top: 2px solid rgb(210, 210, 210);
+  padding: 5px;
+  width: 310px;
+}
